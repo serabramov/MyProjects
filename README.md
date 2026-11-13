@@ -2,7 +2,9 @@
 
 Practical tools and thoughtful business systems, created and maintained by [Serghei Abramov](https://sergheiabramov.com).
 
-**Status:** portfolio prepared for review; GitHub Pages is not enabled. Download this repository and open `index.html` to preview. No installation or build is required.
+**[Contact Serghei Abramov ↗](https://sergheiabramov.com/contact)**
+
+**Live portfolio:** https://serabramov.github.io/MyProjects/ (GitHub Pages, served from `main` / root). No installation or build is required.
 
 ## Selected live projects
 
@@ -37,7 +39,7 @@ The earlier static `serghei-site` repository is distinct from today's website. T
 
 MyProjects holds portfolio presentation and public descriptions only. HTML/CSS, local public-page screenshots captured 13 November 2026, no trackers, external fonts, runtime dependencies or paid services. Full card layout is in `index.html`; GitHub limits README styling.
 
-Existing websites, domains, analytics, source, deployments and integrations are unchanged. Unpublished prototypes and restricted corporate materials are not included. Publication requires separate owner approval.
+Existing websites, domains, analytics, source, deployments and integrations are unchanged. Unpublished prototypes and restricted corporate materials are not included. The portfolio was published on GitHub Pages with owner approval.
 
 ## Creator and rights
 
